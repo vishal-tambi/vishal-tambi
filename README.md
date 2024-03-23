@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/https://twitter.com/vishaltambi3](https://x.com/VishalTambi3?t=K9ab63ZHuyMtdgEfW51G-w&s=09)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vishaltambi3" height="30" width="40" /></a>
+<a href="https://twitter.com/VishalTambi3?t=K9ab63ZHuyMtdgEfW51G-w&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vishaltambi3" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishal-tambi-b180b724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-tambi-b180b724b/" height="30" width="40" /></a>
 </p>
 
