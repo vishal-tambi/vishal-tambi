@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishaltambi3" target="blank"><img src="https://img.shields.io/twitter/follow/vishaltambi3?logo=twitter&style=for-the-badge" alt="vishaltambi3" /></a> </p>
 
-- 🔭 I’m currently learning & working on **MERN STACK**
+- 🔭 I’m currently learning DSA & working on **MERN STACK**
 
 - 🌱 I’m currently learning **ReactJs**
 
