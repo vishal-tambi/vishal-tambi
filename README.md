@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently learning DSA & working on **MERN STACK**
 
-- 🌱 I’m currently learning **ReactJs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/vishal-tambi](https://github.com/vishal-tambi)
 
 - 💬 Ask me about **Development**
