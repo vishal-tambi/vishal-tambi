@@ -1,30 +1,149 @@
-<h1 align="center">Hi 👋, I'm Vishal Tambi</h1>
-<h3 align="center">A passionate full stack developer and a Software Engineer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-tambi&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-tambi" /> </p>
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vishal%20Tambi&fontSize=90&fontAlign=50&fontAlignY=40&desc=Passionate%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlign=50&descAlignY=60&animation=fadeIn)
+  
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-tambi" alt="vishal-tambi" /></a> </p>
+<div align="center">
+  
+  ## 👨‍💻 Welcome to My Digital Universe! 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Technologies+%F0%9F%93%9A)](https://git.io/typing-svg)
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=vishal-tambi&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/vishal-tambi?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/vishal-tambi?affiliations=OWNER&label=Stars&style=for-the-badge&color=36BCF7" alt="GitHub Stars" />
+  </p>
+  
+</div>
 
-<p align="left"> <a href="https://twitter.com/vishaltambi3" target="blank"><img src="https://img.shields.io/twitter/follow/vishaltambi3?logo=twitter&style=for-the-badge" alt="vishaltambi3" /></a> </p>
+---
 
-- 🔭 I’m currently learning DSA & working on **MERN STACK**
+<div align="center">
+  
+  ### 🌟 About Me
+  
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishal-tambi](https://github.com/vishal-tambi)
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      
+  ```javascript
+  const vishal = {
+    name: "Vishal Tambi",
+    role: "Full Stack Developer",
+    location: "Jaipur, India 🇮🇳",
+    education: "B.Tech in Computer Science Engineering",
+    university: "Amity University Rajasthan",
+    currentFocus: ["MERN Stack", "DSA", "System Design"],
+    hobbies: ["Coding", "Tech Blogging", "Open Source"],
+    lifePhilosophy: "Code with passion, learn with purpose",
+    favoriteQuote: "Building the future, one commit at a time"
+  };
 
-- 💬 Ask me about **Development**
 
-- 📫 How to reach me **tambivishal3@gmail.com**
+</td>
+<td align="center" width="50%">
+  
+🚀 Currently Building: Scalable web applications<br/>
+🌱 Learning: Advanced React patterns & Node.js<br/>
+💡 Passionate About: Clean code & user experience<br/>
+🎯 Goal: Contributing to impactful open-source projects<br/>
+☕ Fuel: Coffee & curiosity<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishaltambi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishaltambi3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-tambi-b180b724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-tambi-b180b724b" height="30" width="40" /></a>
-</p>
+</td>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-tambi&show_icons=true&locale=en&layout=compact" alt="vishal-tambi" /></p>
+</tr> </table>
+<div align="center">
+🛠️ My Tech Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-tambi&show_icons=true&locale=en" alt="vishal-tambi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-tambi&" alt="vishal-tambi" /></p>
+</div> <details> <summary><b>🔥 More Technologies & Tools</b></summary> <br/>
+Frontend Development
+
+
+
+
+
+
+
+
+
+
+
+Backend Development
+
+
+
+
+
+
+
+
+
+Database
+
+
+
+
+
+
+
+Programming Languages
+
+
+
+
+
+Tools & Platforms
+
+
+
+
+
+
+
+
+
+</details>
+<div align="center">
+📊 GitHub Analytics
+</div> <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-tambi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-tambi&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-tambi&theme=tokyonight" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-tambi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> </div>
+<div align="center">
+🏆 GitHub Trophies
+
+</div>
+<div align="center">
+🌐 Let's Connect & Collaborate
+
+
+
+</div>
+<div align="center">
+💭 Random Dev Quote
+
+
+
+💭 Random Dev Quote
+
+
+</div>
+<div align="center">
+🐍 Watch My Contributions Get Eaten!
+
+
+</div>
+<div align="center">
+🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+Thanks for visiting! Let's build something incredible together! 💫
+
+
+</div>
+<div align="center">
+⭐ Star this repo if you found it interesting!
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2
