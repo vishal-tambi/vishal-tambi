@@ -1,197 +1,143 @@
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vishal%20Tambi&fontSize=90&fontAlign=50&fontAlignY=40&desc=Passionate%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlign=50&descAlignY=60&animation=fadeIn)
-  
-</div>
-
-<div align="center">
-  
-  ## 👨‍💻 Welcome to My Digital Universe! 
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Technologies+%F0%9F%93%9A)](https://git.io/typing-svg)
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vishal-tambi&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/vishal-tambi?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/vishal-tambi?affiliations=OWNER&label=Stars&style=for-the-badge&color=36BCF7" alt="GitHub Stars" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hey there, I'm Vishal Tambi 👋
+  </h1>
+  <p>
+    A curious full-stack developer and CSE undergrad with a passion for building meaningful products. I've interned at startups in both India and the US, and I love turning ideas into live, scalable applications.
   </p>
-  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/vishal-tambi-b180b724b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://leetcode.com/VishalTambi/" target="_blank">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    </a>
+    <a href="https://github.com/vishal-tambi" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-<div align="center">
-  
- ### 🌟 About Me
-</div>
+### 📊 My GitHub Stats
 
-<table align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-tambi&show_icons=true&theme=radical&rank_icon=github" alt="Vishal Tambi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-tambi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 My Projects
+
+Here are some of the impactful projects I’ve worked on.
+
+<table>
   <tr>
-    <td align="center" width="50%">
-      
-  ```javascript
-  const Vishal = {
-    name: "Vishal Tambi",
-    role: "Software Developer",
-    location: "India 🇮🇳",
-    currentFocus: ["MERN Stack", "DSA", "System Design"],
-    hobbies: ["Coding", "Badminton", "Tech Exploring"],
-    lifePhilosophy: "Dream in code, deliver in commits",
-    favoriteQuote: "Engineering progress, one repo at a time"
-  };
-  ```
-      
+    <td width="50%" valign="top">
+      <h3 align="center">🧑‍⚕️ Doctor Appointment & Chat App</h3>
+      <p>A complete web solution that lets users book doctor appointments and chat live with professionals.</p>
+      <ul>
+        <li>Includes profile search, appointment tracking, and chat integration.</li>
+        <li>Crafted with a responsive design and modern UI elements.</li>
+        <li>Built from scratch with full authentication and role-based access.</li>
+      </ul>
+      <p align="center">
+        <strong>Tools:</strong> React.js, Node.js, Express, MongoDB, Material UI
+      </p>
     </td>
-    <td align="center" width="50%">
-      
-  🚀 **Currently Building:** Next-gen web applications<br/>
-  🌱 **Learning:** Advanced React patterns & Node.js<br/>
-  💡 **Passionate About:** Clean code & user experience<br/>
-  🎯 **Goal:** Contributing to impactful open-source projects<br/>
-  🎥 **Secret Talent:** Creating tech content on YouTube<br/>
-  ☕ **Fuel:** Coffee & curiosity<br/>
-      
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Coding Assistant</h3>
+      <p>An intelligent coding assistant that generates real-time code suggestions using AI.</p>
+      <ul>
+        <li>Leverages Google Generative AI APIs for natural language inputs.</li>
+        <li>Clean UI for fast interaction with Clerk-based authentication.</li>
+        <li>Ideal for students, devs, and quick prototyping.</li>
+      </ul>
+      <p align="center">
+        <strong>Tools:</strong> React.js, Node.js, GenAI API, Clerk, Vercel
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💸 FinPlay – Finance Game</h3>
+      <p>A drag-and-drop style educational game that makes finance fun and interactive.</p>
+      <ul>
+        <li>Includes score tracking, hints, timers, and visual feedback.</li>
+        <li>Gamified learning experience using confetti and motion effects.</li>
+        <li>Powered by React and Framer Motion for smooth animations.</li>
+      </ul>
+      <p align="center">
+        <strong>Tools:</strong> React.js, Next.js, Tailwind CSS, Node.js, Framer Motion
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 School Interview Builder (SaaS)</h3>
+      <p>Part of a live project at SchoolSeeker for streamlining school admissions via smart interview scheduling.</p>
+      <ul>
+        <li>Built custom TRPC and REST API routes for dynamic interviews.</li>
+        <li>Handled time constraints, scoring logic, and parent-school dashboards.</li>
+        <li>Actively deployed within the main admissions workflow.</li>
+      </ul>
+      <p align="center">
+        <strong>Tools:</strong> Next.js, Prisma, Node.js, PostgreSQL, Tailwind CSS
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-<div align="center">
-  
-  ### 🛠️ My Tech Arsenal
-  
-  ![Tech Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,cpp,c,php,firebase,figma,linux,git,github,vscode&perline=9)
-  
-</div>
+### 💻 My Tech Stack
 
-<details>
-<summary><b>🔥 More Technologies & Tools</b></summary>
-<br/>
-
-**Frontend Development**
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend Development**
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Database**
-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-**Programming Languages**
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Tools & Platforms**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</details>
+- **Languages:** `JavaScript`, `Java`, `C++`, `PHP`, `SQL`  
+- **Frontend:** `React.js`, `Next.js`, `Tailwind CSS`, `Material UI`  
+- **Backend:** `Node.js`, `Express.js`, `Prisma`, `TRPC`, `PHP`  
+- **Databases:** `MongoDB`, `PostgreSQL`, `Firebase`  
+- **Tools & Platforms:** `Git`, `Vercel`, `Docker`, `Postman`, `Figma`, `JWT Auth`, `MVC`, `Agile`
 
 ---
 
-<div align="center">
-  
-  ### 📊 GitHub Analytics
-  
-</div>
+### 👨‍💻 Internship Experience
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-tambi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-tambi&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+**Full Stack Intern** @ **SchoolSeeker** (June 2025 – Present)  
+- Delivered key components for a school admissions platform in collaboration with founders.  
+- Developed a fully configurable interview builder with live tracking and smart workflows.  
+- Built and maintained scalable schemas and REST/TRPC APIs.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-tambi&theme=tokyonight" alt="GitHub Streak" />
-</div>
+**Software Engineer Intern** @ **Headstarter AI** (Jul – Sep 2024)  
+- Built 5 AI-powered web apps integrated with OpenAI and Pinecone.  
+- Led the final sprint, transforming user backlog into a deployable product.  
+- Followed best practices via mentorship from engineers at Amazon and Bloomberg.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-tambi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
+**Full Stack Intern** @ **Frolic Healthtech** (May – Jul 2024)  
+- Created a secure and responsive admin panel using PHP and MySQL.  
+- Supported image uploads, data dashboards, and session-based control.  
+- Improved user experience and dashboard engagement by 20%.
 
 ---
 
-<div align="center">
-  
-  ### 🏆 GitHub Trophies
-  
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vishal-tambi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
+### 🎓 Education
+
+- **Amity University Rajasthan** | B.Tech in Computer Science Engineering (2022 – Present)  
+  *CGPA: 8.42*  
+- **Spectrum Global Academy** | RBSE Senior Secondary (2021)  
+  *Percentage: 94.2%*
 
 ---
 
-<div align="center">
-  
-  ### 🌐 Let's Connect & Collaborate
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-tambi-b180b724b/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tambivishal3@gmail.com)
-  
-</div>
+### 🏆 Achievements & Extras
+
+- 🧠 Solved 200+ problems on LeetCode  
+- 🥇 Team Lead, Website Team – NSS, Amity University  
+- 📢 Public Relations Coordinator – E-Cell, Amity University  
+- 🚀 Hosted and deployed multiple full-stack apps on Vercel  
+- 💡 Active learner of PostgreSQL and AI tool integration
 
 ---
 
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 🐍 Watch My Contributions Get Eaten!
-  
-  ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 📈 Weekly Development Breakdown
-  
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-  
-</div>
-
----
-
-<div align="center">
-  
-  ## 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
-  
-  ### Thanks for visiting! Let's build something incredible together! 💫
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
-  
-</div>
-
----
-
-<div align="center">
-  
-  **⭐ Star this repo if you found it interesting!**
-  
-  ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnikhiljangid120&label=Thanks%20for%20visiting&countColor=%23263759)
-  
-</div>
+Thanks for visiting my GitHub!  
+Let’s connect, collaborate, and build something impactful 🚀
