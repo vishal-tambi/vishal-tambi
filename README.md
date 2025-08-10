@@ -130,11 +130,14 @@ Here are some of the impactful projects I’ve worked on.
 
 ### 🏆 Achievements & Extras
 
-- 🧠 Solved 250+ problems on LeetCode  
 - 🥇 Team Lead, Website Team – NSS, Amity University  
 - 📢 Public Relations Coordinator – E-Cell, Amity University  
 - 🚀 Hosted and deployed multiple full-stack apps on Vercel  
 - 💡 Active learner of PostgreSQL and AI tool integration
+- 🛠 Completed two industry-level full-stack internships (India & US-based)  
+- 🧩 Built and delivered 10+ personal and collaborative software projects  
+- 🌐 Developed scalable APIs and dashboards used by real-world clients  
+- 🎯 Consistently apply Agile and CI/CD practices in project workflows 
 
 ---
 
