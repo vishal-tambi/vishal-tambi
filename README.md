@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/vishal-tambi-b180b724b/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://leetcode.com/Vishal_Tambi_03/" target="_blank">
+    <a href="https://leetcode.com/Vishal/" target="_blank">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
     </a>
     <a href="https://github.com/vishal-tambi" target="_blank">
