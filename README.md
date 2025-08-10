@@ -75,17 +75,16 @@ Here are some of the impactful projects I’ve worked on.
       </p>
     </td>
     <td width="50%" valign="top">
-     <h3 align="center">💻 Coding Help Assistant</h3>
-<p>An AI-powered web tool designed to assist developers with real-time coding solutions and optimizations.</p>
+<h3 align="center">💬 Lightweight Feedback System</h3>
+<p>A modern feedback management application designed to streamline communication between managers and employees.</p>
 <ul>
-  <li>Integrated Google Generative AI API to provide intelligent code suggestions, explanations, and optimization tips.</li>
-  <li>Supports multiple programming languages with instant response generation.</li>
-  <li>Clean, responsive UI with authentication powered by Clerk.</li>
+  <li>Implemented secure authentication for both manager and employee roles.</li>
+  <li>Designed dashboards to view, manage, and analyze feedback in an organized way.</li>
+  <li>Optimized backend performance with Docker deployment and MongoDB integration.</li>
 </ul>
 <p align="center">
-  <strong>Tools:</strong> React.js, Node.js, Material UI, Clerk, Google Generative AI API, Vercel
+  <strong>Tools:</strong> React.js, Python (FastAPI), MongoDB, Docker, JWT Auth
 </p>
-
     </td>
   </tr>
 </table>
