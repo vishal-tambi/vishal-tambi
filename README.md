@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenh1bWNkeWNyYjByMXNpYjdoN2ZrcTRnZmZqazQ5bnc4dmlramY0cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0eIgxkeDtLSbWLkOAc/giphy.gif" width="300">
   <h1>
     Hey there, I'm Vishal Tambi 👋
   </h1>
@@ -18,7 +18,6 @@
     </a>
   </p>
 </div>
-
 ---
 
 ### 📊 My GitHub Stats
