@@ -1,5 +1,4 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxod3E0MHR2ZnRvZ3h0MGYyajNqYWpuNnltZ2w3dHBxN2dtOXRvaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="300">
   <h1>
     Hey there, I'm Vishal Tambi 👋
   </h1>
@@ -18,7 +17,6 @@
     </a>
   </p>
 </div>
----
 
 ### 📊 My GitHub Stats
 
@@ -27,7 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-tambi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 ### 🚀 My Projects
 
