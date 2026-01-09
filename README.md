@@ -19,11 +19,65 @@
 </div>
 
 ### 📊 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-tambi&show_icons=true&theme=radical&rank_icon=github" alt="Vishal Tambi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-tambi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-tambi&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-tambi&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
+
+
+
+
+## 📊 PERFORMANCE METRICS
+
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-tambi&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=00F5FF" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-tambi&theme=algolia&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6E00&currStreakLabel=00F5FF" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-tambi&layout=donut&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vishal-tambi&limit=5&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Contributions" />
+</td>
+</tr>
+</table>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-tambi&custom_title=📈%20Contribution%20Timeline&bg_color=0D1117&color=00F5FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true&area_color=00F5FF" width="95%" alt="Contribution Graph"/>
+
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal-tambi&theme=algolia&hide_border=true" width="95%" alt="Profile Summary"/>
+
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Trophies Section -->
+<div align="center">
+
+## 🏆 HALL OF ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishal-tambi&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies"/>
+
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Snake Animation -->
+<div align="center">
+
+
 
 
 ### 🚀 My Projects
