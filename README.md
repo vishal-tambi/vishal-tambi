@@ -7,7 +7,7 @@
 
 <!-- BANNER / HEADER IMAGE (replace with your own banner) -->
 <!-- You can create one at: https://capsule-render.vercel.app -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00D9FF&height=200&section=header&text=Vishal%20Tamboli&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20@%20Amity%20University&descAlignY=60&descColor=a0d8ef)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00D9FF&height=200&section=header&text=Vishal%20Tambi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20@%20Amity%20University&descAlignY=60&descColor=a0d8ef)
 
 <br/>
 
