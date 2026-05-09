@@ -31,12 +31,12 @@
 name       : Vishal Tambi
 location   : Jaipur, Rajasthan, India 🇮🇳
 education  : B.Tech CSE @ Amity University Rajasthan (Final Year)
-role       : Full-Stack Developer @ xFanatical
+role       : Full-Stack Developer @ software company
 interests  : Web Dev · Cryptography · Machine Learning · Open Source
 currently  : Building Fuji Admin Portal | Learning System Design
 ```
 
-- 🔭 Currently working on **Fuji** — an enterprise Admin Portal at xFanatical
+- 🔭 Currently working on **Fuji** — an enterprise Admin Portal at software company
 - 🌱 Deepening expertise in **System Design**, **Auth flows** & **Microservices**
 - 🔐 Fascinated by **Cryptography** and **ML fundamentals**
 - 📄 Co-authored an **IEEE paper** on an AI-powered OMR system (ADEL)
@@ -135,7 +135,7 @@ currently  : Building Fuji Admin Portal | Learning System Design
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🧑‍💻 Full-Stack Developer | xFanatical | 2026 – Present |
+| 🧑‍💻 Full-Stack Developer | software company | 2026 – Present |
 | ⚡ SDE Intern | SchoolSeeker | Prior |
 | 🚀 SDE Fellow | Headstarter AI | Prior |
 | 🏥 Intern | Frolic Healthtech | Prior |
