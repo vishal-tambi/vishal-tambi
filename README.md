@@ -146,8 +146,9 @@ currently  : Building Fuji Admin Portal | Learning System Design
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishal-tambi&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9)](https://github.com/vishal-tambi/YOUR_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishal-tambi&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9)](https://github.com/vishal-tambi/YOUR_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishal-tambi&repo=adel_private&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9)](https://github.com/vishal-tambi/adel_private)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishal-tambi&repo=pipeline-creator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9)](https://github.com/vishal-tambi/pipeline-creator)
 
 </div>
 
